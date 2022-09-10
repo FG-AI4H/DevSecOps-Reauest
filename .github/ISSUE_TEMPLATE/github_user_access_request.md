@@ -23,7 +23,7 @@ Fill out the following fields
 * Reason to access:
 
 ### Step 3
-For security and provacy reasons, please send the following information by email to ml@mllab.ai:
+For security and privacy reasons, please send the following information by email to ml@mllab.ai:
 
 * New user's GitHub ID
 * New user's email address associated with the GitHub account
