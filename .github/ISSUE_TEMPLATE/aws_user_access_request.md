@@ -1,6 +1,6 @@
 ---
 name: Access Request to add FG-AI4H AWS Account
-about: To add access for a team member to FG-AI4H GitHub repositories.
+about: To add access for a team member to FG-AI4H AWS account.
 title: ''
 labels: aws-membership
 assignees: mllabai
